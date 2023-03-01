@@ -176,6 +176,9 @@ def single():
     except KeyError:
         print(bold("Invalid tolerance"))
         return
+    except IndexError:
+        print(bold("Insufficient colors"))
+        return
 
     for k, v in {
         "Resistance": resistance,

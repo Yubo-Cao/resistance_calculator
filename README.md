@@ -7,7 +7,7 @@ A simple resistance calculator for carbon/film resistors.
 - If you have ambiguity in the color, it will ask you to choose the one you like.
 - And pretty robust with some basic error handling.
 
-![CLI GUI](demo.png)- Trie to use the smallest resistor possible
+![CLI GUI](demo.png)
 
 ## How to use
 

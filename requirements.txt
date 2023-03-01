@@ -1,0 +1,4 @@
+colorama==0.4.6
+inquirer==3.1.2
+Pint==0.20.1
+pyperclip==1.8.2
